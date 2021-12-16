@@ -1,6 +1,6 @@
-# Probablistic
+# Probabilistic 
 
-Crate __Probablistic__ contains several probablistic data structures for large data sets.
+Crate __Probabilistic__ contains several probabilistic data structures for large data sets.
 
 - membership
   - bloomfilter
